@@ -3,7 +3,7 @@ This C++ program implements a car rental system that allows both administrators 
 
 **Features**
 
-**Admin Functionality:**\n
+**Admin Functionality:**__
 *Add Cars:* Administrators can add new car models with their respective mileages to the list.
 *Delete Cars:* Administrators can delete existing car models from the list by specifying their index.
 *Display Cars:* Administrators can display all available car models along with their details.
