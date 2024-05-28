@@ -20,6 +20,7 @@ This C++ program implements a car rental system that allows both administrators 
 *Inheritance:* The rent class inherits from the customer class, demonstrating object-oriented principles.
 
 **How to Use**
+
 *Admin Access:* Use the password admin to log in as an administrator and manage car data.
 *Customer Access:* Use the password 1234 to log in as a customer, view available cars, select a car for rental, and generate an invoice.
 This program provides a basic yet functional car rental management system, demonstrating core concepts of C++ including classes, inheritance, file handling, and data structures.
